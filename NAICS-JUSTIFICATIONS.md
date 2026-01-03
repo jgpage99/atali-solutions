@@ -174,13 +174,13 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 
 | NAICS | Description | Size Std | Primary Products | Key Applications |
 |-------|-------------|----------|------------------|------------------|
-| **541519** | Computer Related Services | $34.0M | ApexKey-256, Overwatch | Cybersecurity, Threat Detection |
+| **541519** | Computer Related Services | $34.0M | ApexKey-Project, Overwatch | Cybersecurity, Threat Detection |
 | **541511** | Custom Programming | $34.0M | Seldon 5GL, VERITAS | Software Development, AI Systems |
 | **541715** | Engineering R&D | 1,300 emp | Seldon 5GL | Core Engineering, Test Support |
 | **541330** | Engineering Services | $47.0M | Full Portfolio | IT/Cyber, Systems Engineering |
 | **541611** | Admin Consulting | $24.5M | Seldon 5GL | Business Ops, Office Admin |
 | **541612** | HR Consulting | $29.0M | VERITAS | Personnel Security, Training |
-| **541690** | Scientific Consulting | $19.0M | ApexKey-256, VERITAS, Overwatch | Intelligence, Program Protection |
+| **541690** | Scientific Consulting | $19.0M | ApexKey-Project, VERITAS, Overwatch | Intelligence, Program Protection |
 
 ---
 
@@ -190,7 +190,7 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 **Applicable NAICS:** 541519, 541690, 541330
 
 **Capabilities:**
-- AES-256 foundation with post-quantum key exchange expandable to other foundations. 
+- AES-Project foundation with post-quantum key exchange expandable to other foundations. 
 - NIST post-quantum cryptography compliance
 - Hybrid classical/quantum-resistant architecture
 - Future-proof against quantum computing threats

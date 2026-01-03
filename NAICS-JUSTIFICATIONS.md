@@ -14,7 +14,7 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 **Primary Focus:** Cybersecurity & Risk Management
 
 **Capabilities:**
-- **ApexKey-256**: Quantum-resistant encryption protecting sensitive defense systems against current and emerging cryptographic threats
+- **ApexKey-Project**: Quantum-resistant encryption protecting sensitive defense systems against current and emerging cryptographic threats
 - **Overwatch**: AI-driven threat detection with real-time correlation and behavioral analysis
 - **Comprehensive Security**: End-to-end cybersecurity aligned with DoD zero-trust architecture requirements
 
@@ -186,11 +186,11 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 
 ## Integrated Product Portfolio
 
-### ApexKey-256 (Quantum-Resistant Encryption)
+### ApexKey-Project (Quantum-Resistant Encryption)
 **Applicable NAICS:** 541519, 541690, 541330
 
 **Capabilities:**
-- AES-256 foundation with post-quantum key exchange
+- AES-256 foundation with post-quantum key exchange expandable to other foundations. 
 - NIST post-quantum cryptography compliance
 - Hybrid classical/quantum-resistant architecture
 - Future-proof against quantum computing threats
@@ -294,15 +294,15 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 ## Competitive Advantages
 
 ### Technical Excellence
-- 50 years continuous software development experience
+- 70 years continuous software development experience for Atali Solutions Team
 - Quantum-resistant cryptography expertise
 - Advanced AI/ML implementation capabilities
 - Integrated product portfolio (five technologies working as unified platform)
 
 ### Military Experience
-- Retired Naval Officer with combat experience
+- Retired Naval Officer with combat experience 
 - Fire Support Coordinator, I MEF, Gulf War
-- Officer in Charge, Naval Gunfire School
+- Contract Software Developer NAVSEA 
 - Deep understanding of defense operational requirements
 
 ### Business Credentials

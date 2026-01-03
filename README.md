@@ -6,7 +6,7 @@
 **CEO:** James G. Page - Retired Naval Officer, 50 Years Software Development
 
 ## Technology Portfolio
-- ApexKey-256 (Quantum Encryption)
+- ApexKey-Project (Quantum Encryption)
 - VERITAS (AI Personnel Security)
 - Overwatch (Threat Detection)
 - Stealth Database (Secure Storage)

@@ -83,7 +83,7 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 **Primary Focus:** IT, Cyber & Systems Engineering
 
 **Capabilities:**
-- **Integrated Technology Stack**: ApexKey-256 + Overwatch + VERITAS + Seldon 5GL
+- **Integrated Technology Stack**: ApexKey-Project + Overwatch + VERITAS + Seldon 5GL
 - **End-to-End Solutions**: Secure software development, network protection, information assurance
 - **System Engineering**: Requirements analysis, architecture design, implementation, integration
 
@@ -153,7 +153,7 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 
 **Capabilities:**
 - **Intelligence Analysis**: VERITAS behavioral pattern analysis, Overwatch threat intelligence
-- **Program Protection**: ApexKey-256 quantum-resistant encryption for classified programs
+- **Program Protection**: ApexKey-Project quantum-resistant encryption for classified programs
 - **Technical Consulting**: Advanced AI algorithms, sensor fusion, pattern correlation
 
 **Government Applications:**

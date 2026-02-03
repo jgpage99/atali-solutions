@@ -9,8 +9,9 @@
 - ApexKey-Project (Quantum Encryption)
 - VERITAS (AI Personnel Security)
 - Overwatch (Threat Detection)
-- Stealth Database (Secure Storage)
-- Seldon 5GL (AI Development Platform)
+- Stealth-Database (Secure Storage)
+- Seldon5GL (AI Development Platform)
+- Optima-Vox (Secure Voice Comms)
 
 ## Contact
 Email: jgpage99@gmail.com

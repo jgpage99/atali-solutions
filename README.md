@@ -7,6 +7,7 @@
 
 ## Technology Portfolio
 - ApexKey-Project (Quantum Encryption)
+- Carrier-Crypt (
 - VERITAS (AI Personnel Security)
 - Overwatch (Threat Detection)
 - Stealth-Database (Secure Storage)

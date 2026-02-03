@@ -3,7 +3,7 @@
 
 **Certifications:** SDVOSB | NAOSB | HUBZone
 
-**CEO:** James G. Page - Retired Naval Officer, 50 Years Software Development
+**CEO:** James G. Page - 50 Years Software Development, Retired Naval Officer
 
 ## Technology Portfolio
 - ApexKey-Project (Quantum Encryption)

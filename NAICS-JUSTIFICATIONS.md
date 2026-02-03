@@ -9,6 +9,25 @@ Atali Solutions, LLC maintains registration across seven NAICS codes that repres
 
 ## Primary NAICS Codes
 
+### 541511 - Custom Computer Programming Services (Primary NAIC)
+Size Standard: $34.0M
+Primary Focus: Adaptive Mathematics & AI Development
+Capabilities:
+• Seldon 5GL: Fifth-generation language using adaptive mathematics for optimal code generation across Python, Rust, C++, JavaScript
+• Custom Algorithm Development: Mathematical modeling and adaptive systems for mission-critical applications
+• AI/ML Integration: Intelligent systems with self-correcting algorithms and performance optimization
+• Rapid Prototyping: Complete, self-contained solutions with 60%+ faster deployment
+Government Applications:
+• Adaptive mathematics-driven software development
+• Custom AI/ML algorithm implementation
+• Mission-critical system optimization
+• Legacy code mathematical conversion
+Differentiators:
+• Adaptive mathematics core technology platform
+• 50 years software development expertise
+• Mathematical validation and optimization frameworks
+• Multi-language adaptive code generation with integrated testing
+
 ### 541519 - Other Computer Related Services
 **Size Standard:** $34.0M  
 **Primary Focus:** Cybersecurity & Risk Management
